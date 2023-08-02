@@ -15,4 +15,6 @@
 }
 .nre{
     background-image: linear-gradient(#401389,#D4C3EE);
+    color:white;
+    display: flex;
 }
