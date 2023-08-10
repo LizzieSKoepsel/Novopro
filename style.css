@@ -42,22 +42,22 @@ body{
     width: 120px;
 }
 .plataforma-icones{
-    justify-content: center
-    width: 24px
+    justify-content: center;
+    width: 24px;
 }
 .plataformas-icones-div{
     text-align: center;
     padding: 24px;
-    justify-content: center
+    justify-content: center;
 }
 .nre-texto-segunda{
     text-align: center;
     padding: 50px;
-    justify-content: center
+    justify-content: center;
 }
 
 .plataforma-todos{
     display: grid;
     grid-template-columns: 20%, 20%, 20%, 20%, 20%;
-    justify-content: center
+    justify-content: center;
 }
