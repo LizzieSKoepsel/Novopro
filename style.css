@@ -40,6 +40,7 @@ body{
 }
 .imagem-plataformas{
     width: 100px;
+    padding: 12px;
 }
 .plataforma-icones{
     justify-content: center;
